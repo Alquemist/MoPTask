@@ -1,0 +1,7 @@
+.vscode
+.git
+DocekrTest
+venv
+__pycache__/
+app/migrations
+/celerybeat*

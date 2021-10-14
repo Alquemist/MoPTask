@@ -1,0 +1,1 @@
+{"status": "FAILURE", "result": {"exc_type": "NotRegistered", "exc_message": ["app.tasks.startScraper"], "exc_module": "celery.exceptions"}, "traceback": null, "children": [], "date_done": "2021-09-08T10:06:30.081751", "task_id": "afecc04d-f8fa-4162-9c4c-a6f0f3d2dd56"}

@@ -1,0 +1,1 @@
+{"status": "FAILURE", "result": {"exc_type": "NotRegistered", "exc_message": ["<@task: test of scraper at 0x20abaa68ca0>"], "exc_module": "celery.exceptions"}, "traceback": null, "children": [], "date_done": "2021-09-03T13:10:31.180720", "task_id": "5c6f87bf-6124-42b2-8005-aa33b575f61d"}
