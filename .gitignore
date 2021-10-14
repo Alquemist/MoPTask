@@ -5,3 +5,4 @@ venv
 __pycache__/
 app/migrations
 /celerybeat*
+app/myAPI/RESULTS
