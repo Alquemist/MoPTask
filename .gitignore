@@ -1,6 +1,6 @@
 .vscode
 .git
-DocekrTest
+DockerTest
 venv
 __pycache__/
 app/migrations
