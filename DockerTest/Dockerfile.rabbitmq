@@ -1,7 +1,0 @@
-FROM rabbitmq:3.8.19-management
-COPY rabbitmq.config /etc/rabbitmq/
-COPY rabbitConf.json /etc/rabbitmq/
-RUN chown rabbitmq:rabbitmq /etc/rabbitmq/rabbitmq.config /etc/rabbitmq/rabbitConf.json
-CMD ["rabbitmq-server"]
-
-EXPOSE 15671 15672 5672
